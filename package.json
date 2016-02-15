@@ -1,0 +1,22 @@
+{
+  "name": "simple-jest-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lesha-spr/simple-jest-test.git"
+  },
+  "author": "Oleksii An",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lesha-spr/simple-jest-test/issues"
+  },
+  "homepage": "https://github.com/Lesha-spr/simple-jest-test",
+  "devDependencies": {
+    "jest-cli": "^0.8.2"
+  }
+}
